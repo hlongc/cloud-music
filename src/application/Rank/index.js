@@ -1,5 +1,5 @@
 const Rank = () => {
-  return <div>Rank</div>;
+  return <div>Rank1</div>;
 };
 
 export default Rank;
